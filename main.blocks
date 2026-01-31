@@ -1,0 +1,34 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="+7qH4.Cm*i*=U+xu=Lz/">mySprite</variable><variable type="KIND_SpriteKind" id="*ThPJUq.bm)Ms-7y[Q-y">Player</variable><variable type="KIND_SpriteKind" id="C#~*q{xkjwds9{Z_gPm8">Projectile</variable><variable type="KIND_SpriteKind" id="UT42:AH28IH;pFIZm)VS">Food</variable><variable type="KIND_SpriteKind" id="@/#hal_@b!g!]#ce%fXs">Enemy</variable></variables><block type="pxt-on-start" id="pEAf?Lq8+/(5exMV8_dQ" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="%iVwuu(V/GRH:)_mPd(]"><field name="VAR" id="+7qH4.Cm*i*=U+xu=Lz/">mySprite</field><value name="VALUE"><shadow type="math_number" id="o$;?FAd)Zh}T89yv5Jd0"><field name="NUM">0</field></shadow><block type="spritescreate" id="jInicV?5zMv5,NN6*{Hz"><value name="img"><shadow type="screen_image_picker" id="D#SmMhI_Fp7gpz),IF%]"><field name="img">img`
+......................bbb.......
+....................bb333b......
+.................bbb333d33b.....
+................bb333333d3a.....
+..............bb33332eeeedba....
+............bbb333323eee2e3a....
+..........bbd333333e22222ed3a...
+.......bbbdd3333333e22222edda...
+......bb3d333333333be222eb3d3a..
+...bbb3dd33333333333beeeb33d3a..
+..b3ddd33333333333333333333dda..
+bbddd3333333333333333333333dd3a.
+b33dddddd3333333333333333333d3a.
+bb3333333ddddd33333333333333dda.
+bbbbbbb333dd33dddddddddd3333ddba
+b55553bbbbbb3333dd33333ddd33dd3a
+b555555555553bbbbbbbb33333dddd3a
+bd555555555555555dddbaaaaab3d3ba
+bb55555555555555555dddddddbb33ba
+b3bb35555555555d5555d55dddddbbba
+b33333bbb355dd55555d555ddddddbba
+b5555d333333bbb35dddddd55ddddbba
+b5d555dd5553333bbbbb3ddddddddb3a
+b5d555555555555dd3333bbbbbb3db3a
+bd5d555555d55555dd555ddbbbbbbb3a
+bbb55dd555555555555555ddddddbb3a
+...bbbbdd555ddd5555ddddddddddb3a
+.......bbbb555555d5ddd5ddddddb3a
+...........bbbb55555555555dd533a
+...............bbbbddd5d55d5b3ba
+...................bbbbddddb3ba.
+.......................bbbaaaa..
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="LhF/8WMv@2T=MJ1:$G7`"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
